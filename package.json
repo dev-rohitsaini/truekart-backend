@@ -1,0 +1,24 @@
+{
+  "name": "truekart-backend",
+  "version": "1.0.0",
+  "description": "backend for true kart",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-rohitsaini/truekart-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-rohitsaini/truekart-backend/issues"
+  },
+  "homepage": "https://github.com/dev-rohitsaini/truekart-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
